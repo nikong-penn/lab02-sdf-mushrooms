@@ -1,3 +1,12 @@
+# Created by:
+
+Nico Kong #55480104
+
+# Shadertoy Links
+
+Puzzle: https://www.shadertoy.com/view/WcffDs
+Improved Version: https://www.shadertoy.com/view/3fffDs
+
 # Lab02: SDF Practice
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
